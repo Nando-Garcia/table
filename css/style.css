@@ -1,0 +1,37 @@
+.default {
+    position: relative;
+    top: 30%;
+    margin: 2em auto;
+}
+
+table {
+    background-color: rgb(231, 231, 231);
+    text-align: center;
+    border-collapse: collapse;
+    width: 60%;
+}
+
+.default td {
+    border: solid 1px black;
+    padding: 5px
+}
+
+.default th {
+    background-color: #246355;
+    border-bottom: solid 3px #0F362D;
+    color: white;
+}
+
+.promedio{
+    background-color: rgb(231, 231, 231);
+    text-align: center;
+    border-collapse: collapse;
+    margin: 1em auto;
+}
+
+.promedio-gral{
+    background-color: rgb(231, 231, 231);
+    text-align: center;
+    border-collapse: collapse;
+    margin: auto;
+}
